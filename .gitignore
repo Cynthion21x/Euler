@@ -1,4 +1,5 @@
 *.exe
 *.hi
 *.o
-*
+main
+main.exe
