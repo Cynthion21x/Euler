@@ -1,4 +1,5 @@
 *.exe
+__pycache__/
 *.hi
 *.o
 main
